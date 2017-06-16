@@ -1,6 +1,10 @@
 Eclipse Java EE IDE for Web Developers.
 
 Version: Mars.2 Release (4.5.2) Tomcat 7 Build Tool
+NOTE: If you got error on JARS, you should to import the following jars:
+      - javax.servlet-api-3.0.1.jar
+      - gson-2.3.1.jar
+This link contain the Jars:https://github.com/tharaa1993/JARS
 
 Issues:
 
